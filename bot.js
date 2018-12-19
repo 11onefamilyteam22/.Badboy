@@ -48,8 +48,8 @@ client.on("guildMemberAdd", member => {
 
 
 رابط السيرفر
-joined info-اسم السير
-! اسم السيرفر.                              
+https://discord.gg/xTRSaHM
+Point..                              
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`) 
 }).catch(console.error)
