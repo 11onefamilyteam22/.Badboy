@@ -8,10 +8,14 @@ A7MD.on("guildMemberAdd", member => {
   return channel.send(` 
 **
 سلام عليكم 
-لو سمحت ممكن تدخل سيرفرى
-                               [ رابط السيرفر ] 
+نحن بعيدون جداً من حيث المسافات والأميال :purple_heart: 
+، ولكن يمكن للكلمات أن تؤثر فينا وتحرّك مشاعرنا :first_quarter_moon_with_face: 
+، ويمكن للأفكار أن تجلب لنا الابتسامات. :speaking_head: 
+حياكم سيرفر Point
+                               [ https://discord.gg/xTRSaHM ] 
 الدعووة خاصة لك ... [ ${member}  ]
 **`) 
 }).catch(console.error)
 })
-A7MD.login('التوكين حقك');
+
+client.login(process.env.BOT_TOKEN);
