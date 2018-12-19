@@ -21,8 +21,8 @@ console.log("Welcome Again !");
 شرفنا يا عسل:wink: :kissing_heart:
 
 رابط السيرفر
-joined info-اسم السيرفر
-! اسم السيرفر.                              
+https://discord.gg/xTRSaHM
+Point..                            
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`)
 }).catch(console.error)
